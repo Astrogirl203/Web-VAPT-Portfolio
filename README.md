@@ -7,7 +7,7 @@ This repository contains write-ups and reports for web application penetration t
 
 ## 🛠️ Testing Methodology & Tools
 - **Frameworks:** OWASP Web Security Testing Guide (WSTG v4.2)
-- **Tools:** Burp Suite Professional/Community, Nmap, FFUF, SQLmap, DevTools
-- **Focus Areas:** Authentication Bypass, Authorization Controls (IDOR), SQLi, XSS, Business Logic Flaws
+- **Tools:** Burp Suite Professional/Community, Nmap, Owasp Zap, SQLmap, DevTools
+- **Focus Areas:** Authentication Bypass, Authorization Controls (IDOR), SQLi, XSS, Business Logic Flaws, Rate Limiting, Race Conditions, etc.
 
 ---
